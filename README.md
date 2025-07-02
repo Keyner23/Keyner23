@@ -1,7 +1,6 @@
- ¡DIMELO! Soy Keyner Barrios 👋
+ 
+### ¡DIMELO! Soy Keyner Barrios 👋
 ### Conocido como **KABO** - Coder de RIWI 🚀
-
----
 
 <div align="center">
 
