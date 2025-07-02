@@ -1,16 +1,27 @@
-## Hi there 👋
+ ¡Dimelo! Soy Keyner Barrios 👋
+### Conocido como **KABO** - Coder de RIWI 🚀
 
-<!--
-**Keyner23/Keyner23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎯 Sobre Mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **"Joven apasionado con la tecnologia y enfocado en el desarrollo de software, dispuesto a nuevos retos y asi ampliar sus conocimientos y habilidades. "**
+
+
+
+### 🎓 Formación Académica
+- 🔥 **Actualmente estudiando en RIWI** 
+- 💻 **Tecnico profesional en programacion web** 
+
+
+---
+
+<div align="center">
+
+### 💭 Filosofía de Trabajo
+*"Ningun SOÑADOR es demasiado PEQUEÑO, ni ningun SUEÑO es demasiado GRANDE "*
+
+</div>
+
+
+
