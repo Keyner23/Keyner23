@@ -1,4 +1,4 @@
- <!-- Encabezado animado con GIF -->
+<!-- Encabezado animado con GIF -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=F7F7F7&center=true&vCenter=true&lines=👋+Hola%2C+soy+Keyner+Barrios;🧑‍💻+Desarrollador+de+Software;💡+Amante+de+la+tecnología+y+el+código" />
 </p>
@@ -21,7 +21,7 @@
 ### 🚀 Tecnologías y herramientas que uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,mysql,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github&theme=dark" />
 </p>
 
 ---
@@ -58,8 +58,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </div>
-
-
 <div align="center">
 ### 💭 *"Ningun SOÑADOR es demasiado PEQUEÑO, ni ningun SUEÑO es demasiado GRANDE "*
 </div>
