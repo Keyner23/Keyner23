@@ -58,6 +58,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </div>
+---
 <div align="center">
 ### 💭 *"Ningun SOÑADOR es demasiado PEQUEÑO, ni ningun SUEÑO es demasiado GRANDE "*
 </div>
