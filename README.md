@@ -26,14 +26,6 @@
 
 ---
 
-### 📂 Proyectos destacados
-
-| Proyecto | Descripción |
-|---------|-------------|
-| [**🔗 project 1**](https://github.com/Keyner23/CRUD) | Sitio web simulado de tienda con HTML ,CSS y JS para RIWI. |
-| [**🔗 project 2**](https://github.com/Keyner23/PORTAFOLIO) | Sitio web de mi primer portafolio personal como desarrollador. |
----
-
 
 ### 🧠 Habilidades blandas
 
