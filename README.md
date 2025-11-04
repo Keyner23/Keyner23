@@ -12,7 +12,7 @@
 🎓 Programador web - LITORAL 
 📍 Barranquilla - Atlántico, Colombia  
 💼 En formación continua en Riwi  
-🔍 Apasionado por el desarrollo web, análisis de datos.
+🔍 Apasionado por el desarrollo web
 
 </div>
 
